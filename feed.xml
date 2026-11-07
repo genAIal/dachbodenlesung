@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Dachbodenlesung</title>
+    <link>https://genaial.eu/impressum.html</link>
+    <language>de</language>
+    <description>Beispielsendung zur App MarkMyStory. Gemeinfreie Texte, vorgelesen von der Sprachausgabe. Impressum: https://genaial.eu/impressum.html</description>
+    <itunes:author>Dachbodenlesung</itunes:author>
+    <itunes:image href="https://genaial.github.io/dachbodenlesung/cover.png"/>
+    <image><url>https://genaial.github.io/dachbodenlesung/cover.png</url><title>Dachbodenlesung</title><link>https://genaial.eu/impressum.html</link></image>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Folge 3: Ein Bericht für eine Akademie</title>
+      <description>Aus: Franz Kafka. Gemeinfreier Text, vorgelesen von der Sprachausgabe.</description>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dachbodenlesung-folge-3</guid>
+      <enclosure url="https://genaial.github.io/dachbodenlesung/folge-3.mp3" length="4392796" type="audio/mpeg"/>
+      <itunes:duration>360</itunes:duration>
+      <itunes:image href="https://genaial.github.io/dachbodenlesung/cover.png"/>
+    </item>
+    <item>
+      <title>Folge 2: Der Sandmann</title>
+      <description>Aus: E. T. A. Hoffmann. Gemeinfreier Text, vorgelesen von der Sprachausgabe.</description>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dachbodenlesung-folge-2</guid>
+      <enclosure url="https://genaial.github.io/dachbodenlesung/folge-2.mp3" length="2952660" type="audio/mpeg"/>
+      <itunes:duration>240</itunes:duration>
+      <itunes:image href="https://genaial.github.io/dachbodenlesung/cover.png"/>
+    </item>
+    <item>
+      <title>Folge 1: Ein Landarzt</title>
+      <description>Aus: Franz Kafka. Gemeinfreier Text, vorgelesen von der Sprachausgabe.</description>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dachbodenlesung-folge-1</guid>
+      <enclosure url="https://genaial.github.io/dachbodenlesung/folge-1.mp3" length="3672699" type="audio/mpeg"/>
+      <itunes:duration>300</itunes:duration>
+      <itunes:image href="https://genaial.github.io/dachbodenlesung/cover.png"/>
+    </item>
+  </channel>
+</rss>
